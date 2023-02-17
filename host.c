@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 #ifndef DPU_BINARY
-#define DPU_BINARY "./helloworld"
+#define DPU_BINARY "./main"
 #endif
 
 int main(void) {
