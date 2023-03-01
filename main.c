@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World! this is mbp16\n");
+    printf("Hello World! this is ccho server\n");
     return 0;
 }
